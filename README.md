@@ -92,12 +92,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=suleymanozyilmaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center">
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="400" height="350">
-</div>
-
-  
-
 <br/>  
 
 <div align="center">
@@ -112,3 +106,8 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="400" height="350">
+</div>
+
